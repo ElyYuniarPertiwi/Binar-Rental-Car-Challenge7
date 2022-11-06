@@ -1,0 +1,13 @@
+#FAQ h2 {
+  line-height: 36px;
+}
+
+#FAQ p {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.border{
+  border-style: solid;
+  border-color: grey;
+}

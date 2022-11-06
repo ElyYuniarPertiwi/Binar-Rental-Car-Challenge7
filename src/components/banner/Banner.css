@@ -1,0 +1,21 @@
+#banner {
+  background: #0d28a6;
+  border-radius: 13px;
+}
+
+#banner p {
+  max-width: 468px;
+  font-size: 14px;
+}
+
+.btn-rent{
+  background: #5CB85F;
+  border-radius: 2px;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-rent:hover{
+    background-color: #2b8a2e;
+    color: #ffff;
+}

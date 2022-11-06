@@ -1,0 +1,20 @@
+.btn-search{
+    background: #5CB85F;
+    border-radius: 2px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-search:hover{
+    background-color: #2b8a2e;
+    color: #ffff;
+}
+
+.search-panel{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);;
+    border-radius: 8px;
+    margin-top: -50px !important;
+    background-color: white;
+    font-weight: 300; 
+    font-size: 14px; 
+}

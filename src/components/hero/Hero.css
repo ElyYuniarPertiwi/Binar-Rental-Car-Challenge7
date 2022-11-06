@@ -1,0 +1,27 @@
+.hero{
+  background-color: #f1f3ff;
+}
+
+.hero-desc h1 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 150%;
+}
+
+.hero-desc p {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.btn-rent{
+  background: #5CB85F;
+  border-radius: 2px;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-rent:hover{
+    background-color: #2b8a2e;
+    color: #ffff;
+}
+

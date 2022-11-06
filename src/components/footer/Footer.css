@@ -1,0 +1,14 @@
+#address p {
+  font-size: 14px;
+}
+
+#feature a {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.social-media img {
+  margin-right: 8px;
+}
